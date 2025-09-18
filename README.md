@@ -20,7 +20,7 @@ The outcome equips **game developers, publishers, and community managers** with 
 
 * [Dataset on Kaggle](#) – 📊 Social Media Comments on Gaming Dataset
 * [Dataset Source: r/gaming](#) – Reddit community reference
-* [Deployed Dashboard](#) – 🌐 Public Hugging Face App
+* [Deployed Dashboard](https://huggingface.co/spaces/iankuzuma/Reddit_Gaming_Comment_Sentiment_Prediction_APP) – 🌐 Public Hugging Face App
 * [Saved Model Files](#) – 📂 Google Drive
 
 ---
